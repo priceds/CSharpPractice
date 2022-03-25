@@ -24,7 +24,7 @@ namespace CoContraVarianceDemo
 
 
         public static void Eat(Animal a) => a.Eat();
-        public static void Fly(Bird b) => b.Fly();
+        public static void Fly(Bird b) => b.Fly();//
         static void Main(string[] args)
         {
             //Covariance Example
