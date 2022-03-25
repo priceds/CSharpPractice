@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.exe
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.deps.json
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.dll
+C:\Users\Sarvesh\source\repos\DelegateDemo\bin\Debug\net5.0\DelegateDemo.pdb
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.dll
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\refint\DelegateDemo.dll
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.pdb
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\DelegateDemo\obj\Debug\net5.0\ref\DelegateDemo.dll

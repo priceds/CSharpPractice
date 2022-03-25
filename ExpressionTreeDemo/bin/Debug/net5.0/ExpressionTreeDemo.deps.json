@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExpressionTreeDemo/1.0.0": {
+        "runtime": {
+          "ExpressionTreeDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionTreeDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

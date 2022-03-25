@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.exe
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.deps.json
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.dll
+C:\Users\Sarvesh\source\repos\DebugCode\bin\Debug\net5.0\DebugCode.pdb
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.dll
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\refint\DebugCode.dll
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.pdb
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\DebugCode.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\DebugCode\obj\Debug\net5.0\ref\DebugCode.dll

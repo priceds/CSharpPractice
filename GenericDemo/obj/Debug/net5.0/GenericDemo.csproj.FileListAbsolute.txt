@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.exe
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.deps.json
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.dll
+C:\Users\Sarvesh\source\repos\GenericDemo\bin\Debug\net5.0\GenericDemo.pdb
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.dll
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\refint\GenericDemo.dll
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.pdb
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\GenericDemo.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\GenericDemo\obj\Debug\net5.0\ref\GenericDemo.dll

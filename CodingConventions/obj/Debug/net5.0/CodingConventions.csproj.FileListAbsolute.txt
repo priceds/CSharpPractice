@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.exe
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.deps.json
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.dll
+C:\Users\Sarvesh\source\repos\CodingConventions\bin\Debug\net5.0\CodingConventions.pdb
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.dll
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\refint\CodingConventions.dll
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.pdb
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\CodingConventions.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\CodingConventions\obj\Debug\net5.0\ref\CodingConventions.dll

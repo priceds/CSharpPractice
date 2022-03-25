@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.exe
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.deps.json
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.dll
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\bin\Debug\net5.0\CoContraVarianceDemo.pdb
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.dll
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\refint\CoContraVarianceDemo.dll
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.pdb
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\CoContraVarianceDemo.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\CoContraVarianceDemo\obj\Debug\net5.0\ref\CoContraVarianceDemo.dll

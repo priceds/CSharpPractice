@@ -1,0 +1,16 @@
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.exe
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.deps.json
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.dll
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\bin\Debug\net5.0\ExpressionTreeDemo.pdb
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.dll
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\refint\ExpressionTreeDemo.dll
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.pdb
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ExpressionTreeDemo.genruntimeconfig.cache
+C:\Users\Sarvesh\source\repos\ExpressionTreeDemo\obj\Debug\net5.0\ref\ExpressionTreeDemo.dll
